@@ -52,15 +52,15 @@ Welcome to the E-Commerce App! This app is a fully functional e-commerce platfor
 ## Screenshots
 
 ### Home Page:
-![Home Page](screenshots/home_page.png)
+![Home Page](Screenshot/SS.png)
 *Browse trending products and categories.*
 
 ### Product Page:
-![Product Page](screenshots/product_page.png)
+![Product Page](Screenshot/SS1.png)
 *View product details, add to cart, or save to wishlist.*
 
-### Cart Page:
-![Cart Page](screenshots/cart_page.png)
+### Cart :
+![Cart Page](screenshots/SS2.png)
 *Manage your selected items before checkout.*
 
 
