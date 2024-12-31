@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435964812676",
+    "project_id": "baazar-628ec",
+    "storage_bucket": "baazar-628ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435964812676:android:c430d726497124041491d1",
+        "android_client_info": {
+          "package_name": "com.baazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435964812676-eoaur3hlns1judn91pjocapbadrnk5jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baazar",
+            "certificate_hash": "5a8be34502e43776d30622cbb6fcbce74455b593"
+          }
+        },
+        {
+          "client_id": "435964812676-n9rmo1ustmehvv1ah3gl53q0olgmd0ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAey8XZ8SB0Du5QvkytVlp5G6LlAZPa6Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435964812676-n9rmo1ustmehvv1ah3gl53q0olgmd0ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
