@@ -52,14 +52,13 @@ Welcome to the E-Commerce App! This app is a fully functional e-commerce platfor
 ## Screenshots
 
 ### Home Page:
-{width=200 height=100}
-![Home Page](Screenshot/SS.png)
+<img src="Screenshot/SS.png.png" alt="Cart Page" width="600" height="400">
 
 ### Product Page:
-![Product Page](Screenshot/SS1.png)
+<img src="Screenshot/SS.png.png" alt="Cart Page" width="600" height="400">
 
 ### Cart :
-![Cart Page](screenshots/SS2.png)
+<img src="Screenshot/SS.png.png" alt="Cart Page" width="600" height="400">
 
 
 
