@@ -14,29 +14,15 @@ Welcome to the E-Commerce App! This app is a fully functional e-commerce platfor
 - **Order History:** View past orders and their statuses.
 - **Wishlist:** Save products for later purchases.
 
-### Admin Features:
-- **Product Management:** Add, edit, or delete products.
-- **Order Management:** View and manage user orders.
-- **User Management:** Manage registered users.
-
----
 
 ## Technologies Used
+-firebase Auth
+-React Native
+-firestore
 
 ### Frontend:
 - React Native
 
-### Backend:
-- Node.js
-- Express.js
-- MongoDB (Database)
-
-### Additional Tools:
-- JWT (for authentication)
-- Cloudinary (for image hosting)
-- Stripe API (for payments)
-
----
 
 ## Installation
 
@@ -46,35 +32,16 @@ Welcome to the E-Commerce App! This app is a fully functional e-commerce platfor
    ```
 
 2. **Install Dependencies:**
-   Navigate to both the `frontend` and `backend` directories and install the required packages:
    ```bash
-   cd frontend
-   npm install
-
-   cd ../backend
-   npm install
+   npm i or npm install
    ```
 
-3. **Set Environment Variables:**
-   Create a `.env` file in the `backend` directory and include the following:
-   ```env
-   PORT=5000
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
-   STRIPE_SECRET_KEY=your_stripe_secret_key
-   CLOUDINARY_URL=your_cloudinary_url
-   ```
+
 
 4. **Start the App:**
-   - Start the backend server:
+   - Start in Andrid:
      ```bash
-     cd backend
-     npm start
-     ```
-   - Start the frontend app:
-     ```bash
-     cd frontend
-     npm start
+     npm run android
      ```
 
 5. **Access the App:**
@@ -96,11 +63,7 @@ Welcome to the E-Commerce App! This app is a fully functional e-commerce platfor
 ![Cart Page](screenshots/cart_page.png)
 *Manage your selected items before checkout.*
 
-### Admin Dashboard:
-![Admin Dashboard](screenshots/admin_dashboard.png)
-*Easily manage products, orders, and users.*
 
----
 
 ## Contribution
 
@@ -127,8 +90,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 
 For any questions or feedback, feel free to contact us at:
-- Email: support@ecommerceapp.com
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: itzmohitsharma20@gmail.com
 
 Thank you for using the E-Commerce App!
 
