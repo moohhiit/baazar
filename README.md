@@ -52,7 +52,7 @@ Welcome to the E-Commerce App! This app is a fully functional e-commerce platfor
 ## Screenshots
 
 ### Home Page:
-{width=600 height=400}
+{width=200 height=100}
 ![Home Page](Screenshot/SS.png)
 
 ### Product Page:
